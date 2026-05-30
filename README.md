@@ -1,20 +1,12 @@
+![Retail Sales Forecasting Dashboard premium hero](assets/readme-hero.svg)
+
 # Retail Sales Forecasting Dashboard
 
 > Retail BI dashboard for sales forecasting, demand planning, category performance, seasonal trends, and executive growth visibility.
 
 Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-<p align="center">
-  <img alt="Retail BI" src="https://img.shields.io/badge/Retail%20BI-Sales%20Forecasting-F97316?style=for-the-badge" />
-  <img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-Demand%20Planning-0F172A?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Retail%20Intelligence-2563EB?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
 
 ---
 
@@ -72,6 +64,8 @@ This repository is presented as a premium retail analytics dashboard concept. It
 
 ```text
 retail-sales-forecasting-dashboard/
+├── assets/
+│   └── readme-hero.svg
 ├── data/
 │   └── retail-sales-sample.csv
 ├── sql/
@@ -97,12 +91,6 @@ retail-sales-forecasting-dashboard/
 |---|---|
 | I build analytics dashboards that turn retail activity into forecast-ready business insight. | **FullStackWithAI** represents premium portfolio work built around practical data problems, polished presentation, and AI-assisted execution. |
 
-<p align="center">
-  <strong>Theme:</strong> Retail BI · Sales Forecasting · Demand Planning · Category Intelligence
-</p>
+**Theme:** Retail BI · Sales Forecasting · Demand Planning · Category Intelligence
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
