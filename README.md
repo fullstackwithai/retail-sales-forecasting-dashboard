@@ -1,18 +1,25 @@
-![Retail Sales Forecasting Dashboard premium hero](assets/readme-hero.svg)
+<div align="center">
 
-# Retail Sales Forecasting Dashboard
+# RETAIL SALES FORECASTING DASHBOARD
 
-> Retail BI dashboard for sales forecasting, demand planning, category performance, seasonal trends, and executive growth visibility.
+### Retail BI, Demand Planning & Forecast Intelligence
 
-Built by **Arsim Shefkiu** under **FullStackWithAI**.
+**Sales trends. Seasonal demand. Category performance. Inventory clarity.**
 
-[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
+[![Portfolio](https://img.shields.io/badge/portfolio-DesignHubMK-0A66C2?style=flat-square)](https://www.designhubmk.com)
+![Focus](https://img.shields.io/badge/focus-Retail%20BI-F59E0B?style=flat-square)
+![Analytics](https://img.shields.io/badge/analytics-Forecasting%20%2B%20Demand-2563EB?style=flat-square)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-2E8B57?style=flat-square)
+
+**Sales trends to forecast clarity. Product demand to smarter inventory decisions.**
+
+</div>
 
 ---
 
-## Retail Forecasting Theme
+![Retail Sales Forecasting Dashboard premium hero](assets/readme-hero.svg)
 
-> **Sales trends to forecast clarity. Product demand to smarter inventory decisions.**
+## Retail Forecasting Theme
 
 This repository is presented as a premium retail analytics dashboard concept. It focuses on sales forecasting, category performance, seasonality, store-level trends, and executive decision support.
 
@@ -81,16 +88,28 @@ retail-sales-forecasting-dashboard/
 
 ---
 
-## Creator & Brand
+## Author
 
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
+**Arsim Shefkiu**  
+**AI Software Engineer · Full-Stack Developer · SaaS & Automation**
 
-> **Retail BI theme focused on forecasting, demand planning, category intelligence, and executive growth visibility.**
+Founder of **DesignHubMK**, building AI-powered software, automation systems, and full-stack digital products.
 
-| Creator Focus | Brand Positioning |
-|---|---|
-| I build analytics dashboards that turn retail activity into forecast-ready business insight. | **FullStackWithAI** represents premium portfolio work built around practical data problems, polished presentation, and AI-assisted execution. |
+[![DesignHubMK](https://img.shields.io/badge/DesignHubMK-Website-555555?logo=googlechrome&logoColor=white)](https://www.designhubmk.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40designhub__mk-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/designhub_mk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fullstackwithai-181717?logo=github&logoColor=white)](https://github.com/fullstackwithai)
 
-**Theme:** Retail BI · Sales Forecasting · Demand Planning · Category Intelligence
+**Website:** https://www.designhubmk.com  
+**Instagram:** @designhub_mk
 
-[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
+---
+
+<div align="center">
+
+## Retail Sales Forecasting Dashboard
+
+**Sales trends to forecast clarity. Product demand to smarter inventory decisions.**
+
+Built by **Arsim Shefkiu · DesignHubMK**
+
+</div>
